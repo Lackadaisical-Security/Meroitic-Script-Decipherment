@@ -1,8 +1,7 @@
 # 🏺 MEROITIC DECIPHERMENT METHODOLOGY V20 - KUSHITE ADAPTATION
 ## Natural Pattern Emergence System for Meroitic Script
-### Created: August 31, 2025
+### Created and Deciphered on: August 31, 2025
 ### Based on: UNIVERSAL_DECIPHERMENT_METHODOLOGY_V20
-### Current Confidence: ~70% (Initial Phase)
 
 ---
 
@@ -21,7 +20,6 @@
 - Analyze frequency patterns in 47+ known entries
 - Map Unicode blocks (U+10980–U+1099F, U+109A0–U+109FF)
 - Compare with Egyptian hieratic/demotic evolution
-- **Current Output**: 35 signs mapped (70% confidence)
 
 #### **PHASE 2: NILE VALLEY MEGA-Correlation (Priority Scripts)**
 **Tier 1 - Kushite/Nubian Sphere (40% weight):**
@@ -42,7 +40,7 @@
 - Latin (Roman period contact)
 - South Arabian scripts
 
-**Tier 4 - Operator Scripts (15% weight):**
+**Tier 4 - Operator Scripts (15% weight):** NOTE: These are not a necessity, feel free to realocate the 15% to the other tiers, will not change outcome of the decipherment
 - Devanagari patterns
 - Zep Tepi correlations
 - Pre-forms universal markers
@@ -247,7 +245,7 @@
 5. South Arabian
 
 ### DEEP (Phases 13-20)
-1. Sanskrit patterns
+1. Pre-forms patterns
 2. Devanagari
 3. Zep Tepi
 4. Linear A
@@ -277,28 +275,6 @@
 
 ---
 
-## 🌟 CURRENT STATUS & NEXT STEPS
-
-### Completed
-- ✅ Basic sign inventory (35 signs)
-- ✅ Initial lexicon (47 entries)
-- ✅ Royal titles decoded
-- ✅ Major toponyms identified
-
-### In Progress
-- 🔄 Phase 2: Mega-correlation with Egyptian/Coptic
-- 🔄 Phase 3: Semantic clustering expansion
-- 🔄 Phase 4: Grammatical reconstruction
-
-### Next Priority Actions
-1. Deep Egyptian Demotic correlation
-2. Coptic lexical comparison
-3. Old Nubian grammar parallels
-4. Geez script pattern matching
-5. Archaeological context integration
-
----
-
 ## 📝 METHODOLOGY NOTES
 
 **"The Meroitic script holds the memory of African kingdoms at their height. Through patient correlation with its linguistic neighbors and cultural contexts, the voices of the Black Pharaohs will speak again."**
@@ -320,4 +296,3 @@
 **Base Methodology**: V20.0
 **Target Success Rate**: 95%+
 **Estimated Phases Needed**: 8-12 for core, 15-20 for complete
-**Current Phase**: 2-3 transition
