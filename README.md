@@ -99,7 +99,7 @@ The Meroitic script, used by the ancient Kingdom of Kush along the Nile in what 
 ### 💾 JSON Data Archives
 | File | Description |
 |------|-------------|
-| [meroitic_complete_script_MASTER-2026-01-21-v2.json](meroitic_complete_script_MASTER-2026-01-21-v2.json) | Complete decoded lexicon with 45+ entries |
+| [meroitic_complete_script_MASTER-2026-01-21-v2.json](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment/blob/main/meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | Complete decoded lexicon with 85+ entries |
 
 ---
 
@@ -366,5 +366,6 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 **Document Classification:** Academic Research - Open Access (with attribution requirements)
 **Last Updated:** 2026-01-23
 **Repository Status:** Complete - First Successful Decipherment Achieved
+
 
 
