@@ -1,0 +1,434 @@
+Meroitic Translations — Lackadaisical Security (The Operator) + Spectre
+Auto-generated corpus sweep: 2026-02-24 (America/New_York)
+Lexicon used: meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json (LS multi-sense schema)
+Key Phase Integration: PhaseZZ corpus validation integrated; di and mds locked at 0.75.
+Hard constraints:
+  - qore ≠ king (LOCKED): crown-prince/heir/regional lord ONLY; kingship requires mlo.
+  - No forced intent: unknowns preserved as [token?] or [NAME].
+
+==================================================================================================
+TOTAL UNIQUE TOKEN-SEQUENCES TRANSLATED: 65
+==================================================================================================
+
+==================================================================================================
+🏛️ ROYAL TITULARY — mlo kdi (kingship-of-Kush formula)
+==================================================================================================
+
+[AUTO-001]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi Amanishakhete se Amanirenas
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:Amanishakhete] [se]→Lineage connector between names [NAME:Amanirenas]
+  Translation:     King of Kush Amanishakhete se Amanirenas
+  Confidence:      0.96
+
+[AUTO-002]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi
+  Literal gloss:   [mlo]→King [kdi]→Kush
+  Translation:     King Kush
+  Confidence:      0.94
+
+[AUTO-003]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi [NAME]
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:NAME]
+  Translation:     King of Kush NAME
+  Confidence:      0.94
+
+[AUTO-004]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi [NAME] amn nb
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:NAME] [amn]→Amun [nb]→Lord
+  Translation:     King of Kush NAME amn nb
+  Confidence:      0.94
+
+[AUTO-005]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi arnekhamani
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:arnekhamani]
+  Translation:     King of Kush arnekhamani
+  Confidence:      0.94
+
+[AUTO-006]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi NAME
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:NAME]
+  Translation:     King of Kush NAME
+  Confidence:      0.94
+
+[AUTO-007]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi natakamni
+  Literal gloss:   [mlo]→King [kdi]→Kush [NAME:natakamni]
+  Translation:     King of Kush natakamni
+  Confidence:      0.94
+
+[AUTO-008]  Class: ROYAL_TITLE_MLO_KDI
+  Transliteration: mlo kdi X
+  Literal gloss:   [mlo]→King [kdi]→Kush [X?]
+  Translation:     King of Kush X
+  Confidence:      0.83
+  Unresolved:      X
+
+==================================================================================================
+👑 ROYAL TITULARY — kndke/kdke (Kandake formula)
+==================================================================================================
+
+[AUTO-009]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: kndke se [name]
+  Literal gloss:   [kndke]→Kandake [se]→Lineage connector between names [NAME:name]
+  Translation:     Kandake se name
+  Confidence:      0.97
+
+[AUTO-010]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: kndke amanitore
+  Literal gloss:   [kndke]→Kandake [NAME:amanitore]
+  Translation:     Kandake amanitore
+  Confidence:      0.96
+
+[AUTO-011]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: kndke Amanirensas mlo kdi
+  Literal gloss:   [kndke]→Kandake [NAME:Amanirensas] [mlo]→King [kdi]→Kush
+  Translation:     Kandake Amanirensas mlo kdi
+  Confidence:      0.95
+
+[AUTO-012]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: qore kdi Amnirense kndke
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Amnirense] [kndke]→Kandake
+  Translation:     Crown prince of Kush Amnirense kndke
+  Confidence:      0.94
+
+[AUTO-013]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: kndke amanirenas qore akinidad tameya napata
+  Literal gloss:   [kndke]→Kandake [NAME:amanirenas] [qore]→Crown prince / heir apparent / regional lord [NAME:akinidad] [tameya]→Tameya [napata]→Napata
+  Translation:     Kandake amanirenas qore akinidad tameya napata
+  Confidence:      0.92
+
+[AUTO-014]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: qore kdi Amnirense li kndke
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Amnirense] [li]→and [kndke]→Kandake
+  Translation:     Crown prince of Kush Amnirense li kndke
+  Confidence:      0.88
+
+[AUTO-015]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: kde lo kndke
+  Literal gloss:   [kde]→Mother [lo]→genitive or focus particle [kndke]→Kandake
+  Translation:     Mother genitive or focus particle Kandake
+  Confidence:      0.85
+
+[AUTO-016]  Class: ROYAL_TITLE_KANDAKE
+  Transliteration: qore li kndke
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [li]→and [kndke]→Kandake
+  Translation:     Crown prince li kndke
+  Confidence:      0.85
+
+==================================================================================================
+🗡️ TITLE / SUCCESSION — qore (heir/crown-prince; never king)
+==================================================================================================
+
+[AUTO-017]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore kdi Tanyidamani se Adikhalamani se Nahirqo
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Tanyidamani] [se]→Lineage connector between names [NAME:Adikhalamani] [se]→Lineage connector between names [NAME:Nahirqo]
+  Translation:     Crown prince of Kush Tanyidamani se Adikhalamani se Nahirqo
+  Confidence:      0.96
+
+[AUTO-018]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore kdi Akinidad se Amnirense
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Akinidad] [se]→Lineage connector between names [NAME:Amnirense]
+  Translation:     Crown prince of Kush Akinidad se Amnirense
+  Confidence:      0.95
+
+[AUTO-019]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore kdi Tanyidamani se Adikhalamani
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Tanyidamani] [se]→Lineage connector between names [NAME:Adikhalamani]
+  Translation:     Crown prince of Kush Tanyidamani se Adikhalamani
+  Confidence:      0.95
+
+[AUTO-020]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore [NAME] se [FATHER]
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [NAME:NAME] [se]→Lineage connector between names [NAME:FATHER]
+  Translation:     Crown prince NAME se FATHER
+  Confidence:      0.94
+
+[AUTO-021]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore se
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [se]→Lineage connector between names
+  Translation:     Crown prince se
+  Confidence:      0.94
+
+[AUTO-022]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore se [name]
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [se]→Lineage connector between names [NAME:name]
+  Translation:     Crown prince, descendant of name
+  Confidence:      0.94
+
+[AUTO-023]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore se arnekhamani
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [se]→Lineage connector between names [NAME:arnekhamani]
+  Translation:     Crown prince, descendant of arnekhamani
+  Confidence:      0.94
+
+[AUTO-024]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore se natakamni
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [se]→Lineage connector between names [NAME:natakamni]
+  Translation:     Crown prince, descendant of natakamni
+  Confidence:      0.94
+
+[AUTO-025]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore kdi [NAME]
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:NAME]
+  Translation:     Crown prince of Kush NAME
+  Confidence:      0.93
+
+[AUTO-026]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore kdi Tanyidamani
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [kdi]→Kush [NAME:Tanyidamani]
+  Translation:     Crown prince of Kush Tanyidamani
+  Confidence:      0.93
+
+[AUTO-027]  Class: ROYAL_TITLE_QORE
+  Transliteration: qore se Z
+  Literal gloss:   [qore]→Crown prince / heir apparent / regional lord [se]→Lineage connector between names [Z?]
+  Translation:     Crown prince, descendant of Z
+  Confidence:      0.82
+  Unresolved:      Z
+
+==================================================================================================
+💧 OFFERING FORMULA — di ato (sacred-water giving)
+==================================================================================================
+
+[AUTO-028]  Class: OFFERING_DI_ATO
+  Transliteration: di ato amn Apedemak
+  Literal gloss:   [di]→Give [ato]→Water [amn]→Amun [ꜣpd-mk]→Apedemak
+  Translation:     Give Water Amun Apedemak
+  Confidence:      0.84
+
+[AUTO-029]  Class: OFFERING_DI_ATO
+  Transliteration: di ato amn n dt
+  Literal gloss:   [di]→Give [ato]→Water [amn]→Amun [n]→to [ḏt]→Eternity
+  Translation:     Give Water Amun to Eternity
+  Confidence:      0.84
+
+[AUTO-030]  Class: OFFERING_DI_ATO
+  Transliteration: [di] ato n amn
+  Literal gloss:   [di]→Give [ato]→Water [n]→to [amn]→Amun
+  Translation:     Give Water to Amun
+  Confidence:      0.82
+
+[AUTO-031]  Class: OFFERING_DI_ATO
+  Transliteration: amn di ato n amanitore
+  Literal gloss:   [amn]→Amun [di]→Give [ato]→Water [n]→to [NAME:amanitore]
+  Translation:     Amun gives sacred water to amanitore
+  Confidence:      0.82
+
+[AUTO-032]  Class: OFFERING_DI_ATO
+  Transliteration: ato di n kdi
+  Literal gloss:   [ato]→Water [di]→Give [n]→to [kdi]→Kush
+  Translation:     Water Give to Kush
+  Confidence:      0.82
+
+[AUTO-033]  Class: OFFERING_DI_ATO
+  Transliteration: di ato n amn
+  Literal gloss:   [di]→Give [ato]→Water [n]→to [amn]→Amun
+  Translation:     Give Water to Amun
+  Confidence:      0.82
+
+[AUTO-034]  Class: OFFERING_DI_ATO
+  Transliteration: [deity] di ato n [person]
+  Literal gloss:   [NAME:deity] [di]→Give [ato]→Water [n]→to [NAME:person]
+  Translation:     Deity gives sacred water to person
+  Confidence:      0.77
+
+[AUTO-035]  Class: OFFERING_DI_ATO
+  Transliteration: di ato n
+  Literal gloss:   [di]→Give [ato]→Water [n]→to
+  Translation:     Give Water to
+  Confidence:      0.77
+
+[AUTO-036]  Class: OFFERING_DI_ATO
+  Transliteration: di ato n [DEITY]
+  Literal gloss:   [di]→Give [ato]→Water [n]→to [NAME:DEITY]
+  Translation:     Give Water to DEITY
+  Confidence:      0.77
+
+[AUTO-037]  Class: OFFERING_DI_ATO
+  Transliteration: di ato n DEITY
+  Literal gloss:   [di]→Give [ato]→Water [n]→to [NAME:DEITY]
+  Translation:     Give Water to DEITY
+  Confidence:      0.77
+
+[AUTO-038]  Class: OFFERING_DI_ATO
+  Transliteration: pd-mk di ato n amanitore
+  Literal gloss:   [ꜣpd-mk]→Apedemak [di]→Give [ato]→Water [n]→to [NAME:amanitore]
+  Translation:     Apedemak gives sacred water to amanitore
+  Confidence:      0.77
+
+[AUTO-039]  Class: OFFERING_DI_ATO
+  Transliteration: sorey di ato n amanitore
+  Literal gloss:   [sorey]→Osiris [di]→Give [ato]→Water [n]→to [NAME:amanitore]
+  Translation:     Osiris gives sacred water to amanitore
+  Confidence:      0.73
+
+[AUTO-040]  Class: OFFERING_DI_ATO
+  Transliteration: wos di ato n amanitore
+  Literal gloss:   [wos]→Isis [di]→Give [ato]→Water [n]→to [NAME:amanitore]
+  Translation:     Isis gives sacred water to amanitore
+  Confidence:      0.73
+
+[AUTO-041]  Class: OFFERING_DI_ATO
+  Transliteration: amn nb di ato n n r
+  Literal gloss:   [amn]→Amun [nb]→Lord [di]→Give [ato]→Water [n]→to [n]→to [r?]
+  Translation:     Amun Lord Give Water to to [r?]
+  Confidence:      0.72
+  Unresolved:      r
+
+==================================================================================================
+🌅 FUNERARY / AFTERLIFE — ye imnt (go-west formula)
+==================================================================================================
+
+[AUTO-042]  Class: FUNERARY_YE_IMNT
+  Transliteration: ye imnt dt
+  Literal gloss:   [ye]→Go / come / travel [imnt]→West [ḏt]→Eternity
+  Translation:     Go west (afterlife journey) ḏt
+  Confidence:      0.82
+
+[AUTO-043]  Class: FUNERARY_YE_IMNT
+  Transliteration: ye imnt t
+  Literal gloss:   [ye]→Go / come / travel [imnt]→West [ḏt]→Eternity
+  Translation:     Go west (afterlife journey) ḏt
+  Confidence:      0.82
+
+[AUTO-044]  Class: FUNERARY_YE_IMNT
+  Transliteration: apote arome li se ye imn
+  Literal gloss:   [apote]→Envoy / messenger [areme]→Rome [li]→and [se]→Lineage connector between names [ye]→Go / come / travel [imnt]→West
+  Translation:     Go west (afterlife journey) apote areme li se
+  Confidence:      0.8
+
+[AUTO-045]  Class: FUNERARY_YE_IMNT
+  Transliteration: ye imnt
+  Literal gloss:   [ye]→Go / come / travel [imnt]→West
+  Translation:     Go west (afterlife journey)
+  Confidence:      0.77
+
+==================================================================================================
+⚔️ DISTRIBUTIVE / ACTION LISTS (ostracon clauses)
+==================================================================================================
+
+[AUTO-046]  Class: DISTRIBUTIVE_CLAUSE
+  Transliteration: abr-se-l e-ked kdi-se-l e-er-k
+  Literal gloss:   [abr-se-l]→each man [e-ked]→ [kdi-se-l]→each woman / female class [e-er-k]→
+  Translation:     Each man was killed; each woman was seized
+  Confidence:      0.64
+
+==================================================================================================
+📎 OTHER / UNCLASSIFIED SEQUENCES
+==================================================================================================
+
+[AUTO-047]  Class: UNCLASSIFIED
+  Transliteration: se natakamni
+  Literal gloss:   [se]→Lineage connector between names [NAME:natakamni]
+  Translation:     Lineage connector between names natakamni
+  Confidence:      0.99
+
+[AUTO-048]  Class: UNCLASSIFIED
+  Transliteration: [kdi kdi kdi]
+  Literal gloss:   [kdi]→Kush [kdi]→Kush [kdi]→Kush
+  Translation:     Kush (emphasis x3)
+  Confidence:      0.98
+
+[AUTO-049]  Class: UNCLASSIFIED
+  Transliteration: kdi kdi kdi
+  Literal gloss:   [kdi]→Kush [kdi]→Kush [kdi]→Kush
+  Translation:     Kush (emphasis x3)
+  Confidence:      0.98
+
+[AUTO-050]  Class: UNCLASSIFIED
+  Transliteration: kdi kdi kdi
+  Literal gloss:   [kdi]→Kush [kdi]→Kush [kdi]→Kush
+  Translation:     Kush (emphasis x3)
+  Confidence:      0.98
+
+[AUTO-051]  Class: UNCLASSIFIED
+  Transliteration: amn nb kdi
+  Literal gloss:   [amn]→Amun [nb]→Lord [kdi]→Kush
+  Translation:     Amun Lord Kush
+  Confidence:      0.96
+
+[AUTO-052]  Class: UNCLASSIFIED
+  Transliteration: napata se mroe
+  Literal gloss:   [napata]→Napata [se]→Lineage connector between names [mroe]→Meroë – capital city of Kush
+  Translation:     Napata Lineage connector between names Meroë – capital city of Kush
+  Confidence:      0.96
+
+[AUTO-053]  Class: UNCLASSIFIED
+  Transliteration: mlo [Aspelta] se [Senkamanisken]
+  Literal gloss:   [mlo]→King [NAME:Aspelta] [se]→Lineage connector between names [NAME:Senkamanisken]
+  Translation:     King Aspelta Lineage connector between names Senkamanisken
+  Confidence:      0.95
+
+[AUTO-054]  Class: UNCLASSIFIED
+  Transliteration: Napata Tameya
+  Literal gloss:   [napata]→Napata [tameya]→Tameya
+  Translation:     Napata Tameya
+  Confidence:      0.93
+
+[AUTO-055]  Class: UNCLASSIFIED
+  Transliteration: rw napata se mroe
+  Literal gloss:   [ḫꜣrw]→gloss: kharou [napata]→Napata [se]→Lineage connector between names [mroe]→Meroë – capital city of Kush
+  Translation:     gloss: kharou Napata Lineage connector between names Meroë – capital city of Kush
+  Confidence:      0.92
+
+[AUTO-056]  Class: UNCLASSIFIED
+  Transliteration: s amanap se abora
+  Literal gloss:   [sš]→Scribe [NAME:amanap] [se]→Lineage connector between names [NAME:abora]
+  Translation:     Scribe amanap Lineage connector between names abora
+  Confidence:      0.91
+
+[AUTO-057]  Class: UNCLASSIFIED
+  Transliteration: mlo mlo mlo mlo mlo mlo mlo
+  Literal gloss:   [mlo]→King [mlo]→King [mlo]→King [mlo]→King [mlo]→King [mlo]→King [mlo]→King
+  Translation:     King King King King King King King
+  Confidence:      0.9
+
+[AUTO-058]  Class: UNCLASSIFIED
+  Transliteration: nb qore
+  Literal gloss:   [nb]→Lord [qore]→Crown prince / heir apparent / regional lord
+  Translation:     Lord Crown prince / heir apparent / regional lord
+  Confidence:      0.9
+
+[AUTO-059]  Class: UNCLASSIFIED
+  Transliteration: nbw bi n kdi
+  Literal gloss:   [nbw]→Gold [biꜣ]→Iron [n]→to [kdi]→Kush
+  Translation:     Gold Iron to Kush
+  Confidence:      0.88
+
+[AUTO-060]  Class: UNCLASSIFIED
+  Transliteration: nb lo kdi
+  Literal gloss:   [nb]→Lord [lo]→genitive or focus particle [kdi]→Kush
+  Translation:     Lord genitive or focus particle Kush
+  Confidence:      0.87
+
+[AUTO-061]  Class: UNCLASSIFIED
+  Transliteration: nb lo mroe
+  Literal gloss:   [nb]→Lord [lo]→genitive or focus particle [mroe]→Meroë – capital city of Kush
+  Translation:     Lord genitive or focus particle Meroë – capital city of Kush
+  Confidence:      0.86
+
+[AUTO-062]  Class: UNCLASSIFIED
+  Transliteration: di nbw n amn
+  Literal gloss:   [di]→Give [nbw]→Gold [n]→to [amn]→Amun
+  Translation:     Give Gold to Amun
+  Confidence:      0.84
+
+[AUTO-063]  Class: UNCLASSIFIED
+  Transliteration: di hbny n amn
+  Literal gloss:   [di]→Give [hbny]→Ebony [n]→to [amn]→Amun
+  Translation:     Give Ebony to Amun
+  Confidence:      0.83
+
+[AUTO-064]  Class: UNCLASSIFIED
+  Transliteration: di bw n pd-mk
+  Literal gloss:   [di]→Give [ꜣbw]→Ivory [n]→to [ꜣpd-mk]→Apedemak
+  Translation:     Give Ivory to Apedemak
+  Confidence:      0.8
+
+[AUTO-065]  Class: UNCLASSIFIED
+  Transliteration: mlo [name] [verb] [commodity]
+  Literal gloss:   [mlo]→King [NAME:name] [verb?] [commodity?]
+  Translation:     King name [verb?] [commodity?]
+  Confidence:      0.68
+  Unresolved:      [verb], [commodity]
+

@@ -1,0 +1,566 @@
+Meroitic Translations — Lackadaisical Security (The Operator) + Spectre
+Auto-generated corpus sweep: 2026-02-24 (America/New_York)
+Lexicon used: meroitic_complete_script_MASTER-2026-02-24-v12_LS_multisense.json (LS multi-sense schema)
+Hard constraints:
+  - qore ≠ king (LOCKED): crown-prince/heir/regional lord ONLY; kingship requires mlo.
+  - No forced intent: gaps/unknowns preserved as […] or [token?].
+
+Sources scanned (uploaded phase bundles + pass docs + translations):
+  - Meroitic-Pass3-Phase22.md
+  - Meroitic-SECONDPASS-SummaryPhase.md
+  - Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md
+  - Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  - PHASE_10_SECONDPASS_First_Full_Synthesis.md
+  - PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md
+  - PHASE_20_ULTIMATE_SYNTHESIS.md
+  - Phase 26_ New Meroitic Inscriptions and LS Decipherment.docx
+  - Phase 28Z Final Meroitic Decipherment Synthesis.docx
+  - Phase 28Z Final Meroitic Decipherment Synthesis_LS_QoreFix.docx
+  - Phase24_Draft_LS_v11_lexicon_update_and_corpus_audit.md
+  - Phase24_Draft_LS_v12_lexicon_update_and_corpus_audit.md
+  - Phase28Z_Errata_Qore_Never_King.md
+  - QORE_Drift_Audit_v12.md
+  - Meroitic Decipherment Phases 16–18_ Nilo-Saharan Linguistic DNA, Sacred Mathematics & Kushite Sound .docx
+  - PHASE_10_FIRST_SYNTHESIS.md
+  - PHASE_18_RESEARCH_LOG.md
+  - PHASE_20_ULTIMATE_SYNTHESIS.md
+  - PHASE_4_RESEARCH_LOG.md
+  - PHASE_7_RESEARCH_LOG.md
+  - PHASE_8_RESEARCH_LOG.md
+  - PHASE_9_RESEARCH_LOG.md
+  - Phase 10 Synthesis_ Meroitic Decipherment Project.docx
+  - Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  - Phases 12 & 13_ Kushite Social Structure & Mythology.docx
+  - Refined Decipherment of the Meroitic Script.docx
+  - PHASE_21_VOICE_RESTORED_LS_Spectre.md
+  - PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  - VOICE_RESTORED_PHASE_10_SECONDPASS_First_Full_Synthesis.md
+  - VOICE_RESTORED_PHASE_11_SECONDPASS_Advanced_Kushite_Morphology_and_Astronomy.md
+  - VOICE_RESTORED_PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md
+
+==================================================================================================
+TOTAL UNIQUE TOKEN-SEQUENCES TRANSLATED: 59
+==================================================================================================
+
+==================================================================================================
+🏛️  ROYAL TITULARY / GENEALOGY / DYNASTIC FORMULAS
+==================================================================================================
+
+[AUTO-018]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: kde lo kndke
+  Notes:
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: mother genitive or focus particle (“of” Candace, queen mother
+  Translation:   mother genitive or focus particle (“of” Kandake
+  Confidence:    0.83
+
+[AUTO-020]
+  Sources: Phase 26_ New Meroitic Inscriptions and LS Decipherment.docx
+  Transliteration: kndke amanirenas ... qore akinidad ... tameya ... napata
+  Notes:
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: Candace, queen mother [amanirenas?] […] crown prince [akinidad?] […] Tameya (Roman Egyptian people) […] Napata (ancient Kushite capital)
+  Translation:   Kandake [amanirenas?] […] crown prince [akinidad?] […] Tameya (Roman Egyptian people) […] Napata (ancient Kushite capital)
+  Confidence:    0.55
+  Unresolved/placeholder: amanirenas, akinidad
+
+[AUTO-021]
+  Sources: Phase 28Z Final Meroitic Decipherment Synthesis.docx, Phase 28Z Final Meroitic Decipherment Synthesis_LS_QoreFix.docx
+  Transliteration: kndke Amanirensas mlo kdi
+  Notes:
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: Candace, queen mother Amanirensas king, divine authority, consciousness ruler Kush, Black Land, primordial essence
+  Translation:   Kandake Amanirensas King of Kush
+  Confidence:    0.95
+
+[AUTO-022]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: kndke se [name]
+  Notes:
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: Candace, queen mother child-of name
+  Translation:   Kandake child-of name
+  Confidence:    0.93
+  Unresolved/placeholder: [name]
+
+[AUTO-023]
+  Sources: PHASE_4_RESEARCH_LOG.md
+  Transliteration: mlo [Aspelta] se [Senkamanisken]
+  Literal gloss: king, divine authority, consciousness ruler Aspelta child-of Senkamanisken
+  Translation:   king, divine authority, consciousness ruler Aspelta child-of Senkamanisken
+  Confidence:    0.9
+  Unresolved/placeholder: [Aspelta], [Senkamanisken]
+
+[AUTO-024]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, Phase28Z_Errata_Qore_Never_King.md
+  Transliteration: mlo kdi
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence
+  Translation:   King of Kush
+  Confidence:    0.94
+
+[AUTO-025]
+  Sources: Meroitic Decipherment Phases 16–18_ Nilo-Saharan Linguistic DNA, Sacred Mathematics & Kushite Sound .docx, PHASE_10_SECONDPASS_First_Full_Synthesis.md, PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md, Phase 10 Synthesis_ Meroitic Decipherment Project.docx …
+  Transliteration: mlo kdi [NAME]
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence NAME
+  Translation:   King of Kush NAME
+  Confidence:    0.91
+  Unresolved/placeholder: [NAME]
+
+[AUTO-026]
+  Sources: PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  Transliteration: mlo kdi [NAME]
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence NAME
+  Translation:   King of Kush NAME
+  Confidence:    0.91
+  Unresolved/placeholder: [NAME]
+
+[AUTO-027]
+  Sources: PHASE_10_FIRST_SYNTHESIS.md
+  Transliteration: mlo kdi [NAME] amn nb
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence NAME Amun (deity name) lord, master
+  Translation:   King of Kush NAME Amun (deity name) lord, master
+  Confidence:    0.93
+  Unresolved/placeholder: [NAME]
+
+[AUTO-028]
+  Sources: PHASE_20_ULTIMATE_SYNTHESIS.md
+  Transliteration: mlo kdi Amanishakhete se Amanirenas
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+    - KINSHIP: X se Y = X (child/descendant) of Y
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence Amanishakhete child-of Amanirenas
+  Translation:   King of Kush Amanishakhete child-of Amanirenas
+  Confidence:    0.95
+
+[AUTO-029]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: mlo kdi arnekhamani
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence [arnekhamani?]
+  Translation:   King of Kush [arnekhamani?]
+  Confidence:    0.69
+  Unresolved/placeholder: arnekhamani
+
+[AUTO-030]
+  Sources: PHASE_9_RESEARCH_LOG.md
+  Transliteration: mlo kdi NAME
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence NAME
+  Translation:   King of Kush NAME
+  Confidence:    0.94
+
+[AUTO-031]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: mlo kdi natakamni
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence [natakamni?]
+  Translation:   King of Kush [natakamni?]
+  Confidence:    0.69
+  Unresolved/placeholder: natakamni
+
+[AUTO-032]
+  Sources: PHASE_7_RESEARCH_LOG.md
+  Transliteration: mlo kdi X
+  Notes:
+    - FORMULA: mlo kdi = King of Kush
+  Literal gloss: king, divine authority, consciousness ruler Kush, Black Land, primordial essence X
+  Translation:   King of Kush X
+  Confidence:    0.94
+
+[AUTO-033]
+  Sources: PHASE_18_RESEARCH_LOG.md
+  Transliteration: mlo mlo mlo mlo mlo mlo mlo
+  Literal gloss: king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler
+  Translation:   king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler king, divine authority, consciousness ruler
+  Confidence:    0.9
+
+[AUTO-037]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: nb ... qore
+  Literal gloss: lord, master […] crown prince
+  Translation:   lord, master […] crown prince
+  Confidence:    0.7
+
+[AUTO-040]
+  Sources: PHASE_10_FIRST_SYNTHESIS.md
+  Transliteration: qore [NAME] se [FATHER]
+  Literal gloss: crown prince NAME child-of FATHER
+  Translation:   crown prince NAME child-of FATHER
+  Confidence:    0.89
+  Unresolved/placeholder: [NAME], [FATHER]
+
+[AUTO-041]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: qore kdi ... Akinidad ... se Amnirense
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+  Literal gloss: crown prince Kush, Black Land, primordial essence […] Akinidad […] child-of Amnirense
+  Translation:   crown prince/heir of Kush […] Akinidad […] child-of Amnirense
+  Confidence:    0.76
+
+[AUTO-042]
+  Sources: Meroitic-SECONDPASS-SummaryPhase.md
+  Transliteration: qore kdi ... Amnirense ... kndke
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: crown prince Kush, Black Land, primordial essence […] Amnirense […] Candace, queen mother
+  Translation:   crown prince/heir of Kush […] Amnirense […] Kandake
+  Confidence:    0.73
+
+[AUTO-043]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: qore kdi ... Amnirense ... li ... kndke
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: crown prince Kush, Black Land, primordial essence […] Amnirense […] and (linker […] Candace, queen mother
+  Translation:   crown prince/heir of Kush […] Amnirense […] and (linker […] Kandake
+  Confidence:    0.66
+
+[AUTO-044]
+  Sources: Meroitic-Pass3-Phase22.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: qore kdi ... Tanyidamani ... se Adikhalamani ... se Nahirqo
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+  Literal gloss: crown prince Kush, Black Land, primordial essence […] Tanyidamani […] child-of Adikhalamani […] child-of Nahirqo
+  Translation:   crown prince/heir of Kush […] Tanyidamani […] child-of Adikhalamani […] child-of Nahirqo
+  Confidence:    0.76
+
+[AUTO-045]
+  Sources: PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  Transliteration: qore kdi [NAME]
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+  Literal gloss: crown prince Kush, Black Land, primordial essence NAME
+  Translation:   crown prince/heir of Kush NAME
+  Confidence:    0.9
+  Unresolved/placeholder: [NAME]
+
+[AUTO-046]
+  Sources: Meroitic-SECONDPASS-SummaryPhase.md, QORE_Drift_Audit_v12.md
+  Transliteration: qore kdi Tanyidamani
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+  Literal gloss: crown prince Kush, Black Land, primordial essence Tanyidamani
+  Translation:   Tanyidamani, crown prince/heir of Kush
+  Confidence:    0.94
+
+[AUTO-047]
+  Sources: Phase28Z_Errata_Qore_Never_King.md, QORE_Drift_Audit_v12.md
+  Transliteration: qore kdi Tanyidamani se Adikhalamani
+  Notes:
+    - FORMULA: qore kdi = Crown prince/heir of Kush (NON-SOVEREIGN)
+    - KINSHIP: X se Y = X (child/descendant) of Y
+  Literal gloss: crown prince Kush, Black Land, primordial essence Tanyidamani child-of Adikhalamani
+  Translation:   Tanyidamani, crown prince/heir of Kush child-of Adikhalamani
+  Confidence:    0.95
+
+[AUTO-048]
+  Sources: PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  Transliteration: qore li kndke
+  Notes:
+    - TITLE: kndke/kdke = Kandake (queen/co-sovereign)
+  Literal gloss: crown prince and (linker Candace, queen mother
+  Translation:   crown prince and (linker Kandake
+  Confidence:    0.82
+
+[AUTO-049]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md
+  Transliteration: qore se
+  Literal gloss: crown prince child-of
+  Translation:   crown prince child-of
+  Confidence:    0.94
+
+[AUTO-050]
+  Sources: Meroitic-SECONDPASS-SummaryPhase.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: qore se [name]
+  Literal gloss: crown prince child-of name
+  Translation:   crown prince child-of name
+  Confidence:    0.91
+  Unresolved/placeholder: [name]
+
+[AUTO-051]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: qore se arnekhamani
+  Literal gloss: crown prince child-of [arnekhamani?]
+  Translation:   crown prince child-of [arnekhamani?]
+  Confidence:    0.69
+  Unresolved/placeholder: arnekhamani
+
+[AUTO-052]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: qore se natakamni
+  Literal gloss: crown prince child-of [natakamni?]
+  Translation:   crown prince child-of [natakamni?]
+  Confidence:    0.69
+  Unresolved/placeholder: natakamni
+
+[AUTO-053]
+  Sources: PHASE_7_RESEARCH_LOG.md
+  Transliteration: qore se Z
+  Literal gloss: crown prince child-of Z
+  Translation:   crown prince child-of Z
+  Confidence:    0.94
+
+==================================================================================================
+💧  OFFERING / WATER / DEITY-GIFT FORMULAS
+==================================================================================================
+
+[AUTO-001]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: [deity] di ato n [person]
+  Literal gloss: deity give, offer water (SACRED ONLY), life force, consciousness flow to person
+  Translation:   deity give, offer water (SACRED ONLY), life force, consciousness flow to person
+  Confidence:    0.73
+  Unresolved/placeholder: [deity], [person]
+
+[AUTO-002]
+  Sources: PHASE_10_FIRST_SYNTHESIS.md
+  Transliteration: [di] ato n amn
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to Amun (deity name)
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to Amun (deity name)
+  Confidence:    0.73
+
+[AUTO-006]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: amn di ato n amanitore
+  Literal gloss: Amun (deity name) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Translation:   Amun (deity name) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Confidence:    0.63
+  Unresolved/placeholder: amanitore
+
+[AUTO-007]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, PHASE_20_ULTIMATE_SYNTHESIS.md
+  Transliteration: amn nb di ato n nṯr
+  Literal gloss: Amun (deity name) lord, master give, offer water (SACRED ONLY), life force, consciousness flow to god
+  Translation:   Amun (deity name) lord, master give, offer water (SACRED ONLY), life force, consciousness flow to god
+  Confidence:    0.78
+
+[AUTO-010]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: ato di n kdi
+  Literal gloss: water (SACRED ONLY), life force, consciousness flow give, offer to Kush, Black Land, primordial essence
+  Translation:   water (SACRED ONLY), life force, consciousness flow give, offer to Kush, Black Land, primordial essence
+  Confidence:    0.73
+
+[AUTO-011]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: di ato ... amn ... Apedemak
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow […] Amun (deity name) […] Apedemak, lion god
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow […] Amun (deity name) […] Apedemak, lion god
+  Confidence:    0.6
+
+[AUTO-012]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: di ato ... amn ... n ... dt
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow […] Amun (deity name) […] to […] eternity, forever
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow […] Amun (deity name) […] to […] eternity, forever
+  Confidence:    0.59
+
+[AUTO-013]
+  Sources: PHASE_7_RESEARCH_LOG.md
+  Transliteration: di ato n
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to
+  Confidence:    0.65
+
+[AUTO-014]
+  Sources: Meroitic Decipherment Phases 16–18_ Nilo-Saharan Linguistic DNA, Sacred Mathematics & Kushite Sound .docx, Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_10_SECONDPASS_First_Full_Synthesis.md, PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md …
+  Transliteration: di ato n [DEITY]
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Confidence:    0.7
+  Unresolved/placeholder: [DEITY]
+
+[AUTO-015]
+  Sources: PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  Transliteration: di ato n [DEITY]
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Confidence:    0.7
+  Unresolved/placeholder: [DEITY]
+
+[AUTO-016]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: di ato n amn
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to Amun (deity name)
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to Amun (deity name)
+  Confidence:    0.73
+
+[AUTO-017]
+  Sources: Meroitic-Pass3-Phase22.md
+  Transliteration: di ato n DEITY
+  Literal gloss: give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Translation:   give, offer water (SACRED ONLY), life force, consciousness flow to DEITY
+  Confidence:    0.73
+
+[AUTO-039]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: pd-mk di ato n amanitore
+  Literal gloss: Apedemak, lion god give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Translation:   Apedemak, lion god give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Confidence:    0.58
+  Unresolved/placeholder: amanitore
+
+[AUTO-055]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: sorey di ato n amanitore
+  Literal gloss: Osiris (deity) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Translation:   Osiris (deity) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Confidence:    0.52
+  Unresolved/placeholder: amanitore
+
+[AUTO-056]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: wos di ato n amanitore
+  Literal gloss: Isis (deity) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Translation:   Isis (deity) give, offer water (SACRED ONLY), life force, consciousness flow to [amanitore?]
+  Confidence:    0.52
+  Unresolved/placeholder: amanitore
+
+==================================================================================================
+🌅  WEST / AFTERLIFE PASSAGE FORMULA (ye imnt)
+==================================================================================================
+
+[AUTO-009]
+  Sources: Phase 26_ New Meroitic Inscriptions and LS Decipherment.docx
+  Transliteration: apote arome li se ... ye imn
+  Notes:
+    - FORMULA: ye imnt = journey west / afterlife passage
+  Literal gloss: envoy Rome and (linker child-of […] go west (direction)
+  Translation:   envoy Rome and (linker child-of […] journey west (afterlife passage)
+  Confidence:    0.66
+
+[AUTO-057]
+  Sources: PHASE_22_VOICE_RESTORED_DRAFT_Cross-Inscription_Convergence_and_Grammar_Lock.md
+  Transliteration: ye imnt
+  Notes:
+    - FORMULA: ye imnt = journey west / afterlife passage
+  Literal gloss: go west (direction)
+  Translation:   journey west (afterlife passage)
+  Confidence:    0.74
+
+[AUTO-058]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: ye imnt ... dt
+  Notes:
+    - FORMULA: ye imnt = journey west / afterlife passage
+  Literal gloss: go west (direction) […] eternity, forever
+  Translation:   journey west (afterlife passage) […] eternity, forever
+  Confidence:    0.68
+
+[AUTO-059]
+  Sources: Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: ye imnt ḏt
+  Notes:
+    - FORMULA: ye imnt = journey west / afterlife passage
+  Literal gloss: go west (direction) eternity, forever
+  Translation:   journey west (afterlife passage) eternity, forever
+  Confidence:    0.8
+
+==================================================================================================
+🧩  DISTRIBUTIVE / CLAUSE-SCAFFOLD STRINGS
+==================================================================================================
+
+[AUTO-004]
+  Sources: Meroitic_SECONDPASS_Phase_23and24_to_Phase_25_Corpus_Pass.md, Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: abr-se-l e-ked kdi-se-l e-(e)r-k
+  Literal gloss: each man (formulaic distributive NP) (I) killed each woman (I) took
+  Translation:   each man (formulaic distributive NP) (I) killed each woman (I) took
+  Confidence:    0.52
+
+[AUTO-005]
+  Sources: Meroitic-Pass3-Phase22.md
+  Transliteration: abr-se-l e-ked kdi-se-l e-er-k
+  Literal gloss: each man (formulaic distributive NP) (I) killed each woman (I) took
+  Translation:   each man (formulaic distributive NP) (I) killed each woman (I) took
+  Confidence:    0.52
+
+==================================================================================================
+🗺️  TOPONYMS / EVENT CHAINS (Napata, Meroe, Rome, Tameya)
+==================================================================================================
+
+[AUTO-034]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_21_VOICE_RESTORED_LS_Spectre.md, Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: Napata ... ... Tameya
+  Literal gloss: Napata (ancient Kushite capital) […] […] Tameya (Roman Egyptian people)
+  Translation:   Napata (ancient Kushite capital) […] […] Tameya (Roman Egyptian people)
+  Confidence:    0.61
+
+[AUTO-035]
+  Sources: Phase 21 Analysis_ Transliteration and Translation of Key Meroitic Inscriptions.docx
+  Transliteration: Napata ... Tameya
+  Literal gloss: Napata (ancient Kushite capital) […] Tameya (Roman Egyptian people)
+  Translation:   Napata (ancient Kushite capital) […] Tameya (Roman Egyptian people)
+  Confidence:    0.72
+
+[AUTO-036]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: napata se mroe
+  Literal gloss: Napata (ancient Kushite capital) child-of Meroe (capital city)
+  Translation:   Napata (ancient Kushite capital) child-of Meroe (capital city)
+  Confidence:    0.96
+
+[AUTO-054]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: rw napata se mroe
+  Literal gloss: [rw?] Napata (ancient Kushite capital) child-of Meroe (capital city)
+  Translation:   [rw?] Napata (ancient Kushite capital) child-of Meroe (capital city)
+  Confidence:    0.77
+  Unresolved/placeholder: rw
+
+==================================================================================================
+🗃️  MISC / FRAGMENTS
+==================================================================================================
+
+[AUTO-003]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: [kdi kdi kdi]
+  Literal gloss: Kush, Black Land, primordial essence Kush, Black Land, primordial essence Kush, Black Land, primordial essence
+  Translation:   Kush, Black Land, primordial essence Kush, Black Land, primordial essence Kush, Black Land, primordial essence
+  Confidence:    0.98
+
+[AUTO-008]
+  Sources: PHASE_18_RESEARCH_LOG.md
+  Transliteration: amn nb kdi
+  Literal gloss: Amun (deity name) lord, master Kush, Black Land, primordial essence
+  Translation:   Amun (deity name) lord, master Kush, Black Land, primordial essence
+  Confidence:    0.96
+
+[AUTO-019]
+  Sources: Meroitic Decipherment Phases 16–18_ Nilo-Saharan Linguistic DNA, Sacred Mathematics & Kushite Sound .docx, Meroitic_Translations_LS_v6_2026-02-18_extended.txt, PHASE_10_SECONDPASS_First_Full_Synthesis.md, PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md …
+  Transliteration: kdi kdi kdi
+  Literal gloss: Kush, Black Land, primordial essence Kush, Black Land, primordial essence Kush, Black Land, primordial essence
+  Translation:   Kush, Black Land, primordial essence Kush, Black Land, primordial essence Kush, Black Land, primordial essence
+  Confidence:    0.98
+
+[AUTO-038]
+  Sources: Meroitic_Translations_LS_v6_2026-02-18_extended.txt
+  Transliteration: nb lo kdi
+  Literal gloss: lord, master genitive or focus particle (“of” Kush, Black Land, primordial essence
+  Translation:   lord, master genitive or focus particle (“of” Kush, Black Land, primordial essence
+  Confidence:    0.84
+
+==================================================================================================
+NEXT HIGH-VALUE UNRESOLVED TOKENS (from this sweep)
+==================================================================================================
+  - amanitore  (occurs 4x in extracted sequences)  => likely NAME / toponym / needs inscription context)
+  - arnekhamani  (occurs 2x in extracted sequences)  => likely NAME / toponym / needs inscription context)
+  - natakamni  (occurs 2x in extracted sequences)  => likely NAME / toponym / needs inscription context)
+  - amanirenas  (occurs 1x in extracted sequences)  => likely NAME / toponym / needs inscription context)
+  - akinidad  (occurs 1x in extracted sequences)  => likely NAME / toponym / needs inscription context)
+  - rw  (occurs 1x in extracted sequences)  => likely NAME / toponym / needs inscription context)
