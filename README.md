@@ -2,7 +2,7 @@
 
 [![Decipherment Status](https://img.shields.io/badge/Status-COMPLETE-success?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
 [![Confidence Level](https://img.shields.io/badge/Confidence-99.5%25-brightgreen?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
-[![Lexicon Version](https://img.shields.io/badge/Lexicon-v13-blue?style=for-the-badge)](#-latest-updates)
+[![Lexicon Version](https://img.shields.io/badge/Lexicon-v16-blue?style=for-the-badge)](#-latest-updates)
 [![License](https://img.shields.io/badge/License-Dual%20Licensed-orange?style=for-the-badge)](#-licensing--attribution)
 
 ---
@@ -29,17 +29,18 @@ This repository preserves the complete research logs, linguistic fieldwork, and 
 
 ## 🆕 Latest Updates
 
-### February 2026 - Enhanced Corpus Analysis
-- ✅ **v13 Lexicon Release** - Multi-sense meanings with expanded semantic ranges
-- ✅ **Full Corpus Sweep** - Comprehensive translation coverage with v13 lexicon
-- ✅ **QORE Drift Audit** - Consistency validation across all translations
-- ✅ **Enhanced Metadata** - Improved attestation tracking and confidence scoring
+### February 25, 2026 - v16 Lexicon Release
+- ✅ **v16 Lexicon Release** - Extended lexicon with enhanced semantic analysis
+- ✅ **Comprehensive Multi-sense Meanings** - Expanded contextual definitions
+- ✅ **Improved Metadata Structure** - Better attestation tracking and confidence scoring
+- ✅ **Visual Reference Chart** - Complete lexicon visualization (sorted by status)
 
 ### Key Data Files (Latest Versions)
 | File | Version | Date | Description |
 |------|---------|------|-------------|
-| [Lexicon CSV v13](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | 2026-02-24 | Latest lexicon with multi-sense meanings |
-| [Complete Script JSON v13](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | 2026-02-24 | Full decoded corpus with semantic analysis |
+| [Lexicon CSV v16](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | **v16** | 2026-02-25 | **Latest lexicon with extended semantic ranges** |
+| [Complete Script JSON v16](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | **v16** | 2026-02-25 | **Full decoded corpus with multi-sense analysis** |
+| [Lexicon Visualization v16](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | v16 | Latest | Visual reference chart (sorted by status) |
 | [Translations v8](Meroitic_Translations_LS_v8_2026-02-24_full_corpus_sweep_v13.txt) | v8 | 2026-02-24 | Complete corpus translations |
 | [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | v12 | Latest | Comprehensive coverage analysis |
 
@@ -146,10 +147,12 @@ For researchers new to this project, start here:
 
 | File | Version | Format | Description |
 |------|---------|--------|-------------|
-| [Complete Script v13 (JSON)](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | JSON | Complete decoded lexicon with multi-sense meanings |
-| [Lexicon v13 (CSV)](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | CSV | Structured lexicon data with metadata |
-| [Complete Script v5 (JSON)](meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | v5 | JSON | Previous stable version with metadata |
-| [Lexicon v5 (CSV)](meroitic_lexicon_expanded_2026-02-18_v5_metadata.csv) | v5 | CSV | Previous lexicon version |
+| [Complete Script v16 (JSON)](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | **v16** | JSON | **Latest: Complete decoded lexicon with multi-sense meanings** |
+| [Lexicon v16 (CSV)](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | **v16** | CSV | **Latest: Structured lexicon data with extended metadata** |
+| [Complete Script v13 (JSON)](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | JSON | Previous version with multi-sense meanings |
+| [Lexicon v13 (CSV)](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | CSV | Previous structured lexicon |
+| [Complete Script v5 (JSON)](meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | v5 | JSON | Earlier stable version with metadata |
+| [Lexicon v5 (CSV)](meroitic_lexicon_expanded_2026-02-18_v5_metadata.csv) | v5 | CSV | Earlier lexicon version |
 | [Complete Script v2 (JSON)](meroitic_complete_script_MASTER-2026-01-21-v2.json) | v2 | JSON | Initial complete version |
 
 ### Translation Outputs
@@ -166,7 +169,7 @@ For researchers new to this project, start here:
 |------|-------------|
 | [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | Comprehensive corpus coverage analysis |
 | [QORE Drift Audit v12](QORE_Drift_Audit_v12.md) | Translation consistency validation |
-| [Lexicon Visualization](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | Visual lexicon reference chart |
+| [Lexicon Visualization v16](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | **Visual lexicon reference chart (sorted by status)** |
 
 ### Visual Reference Materials
 
@@ -280,7 +283,7 @@ Meroitic was **intentionally created** to distinguish Kushite civilization from 
 | **Cross-Script Comparisons** | 85+ scripts | ✅ |
 | **Patterns Identified** | 500+ | ✅ |
 | **Research Phases Completed** | 20/20 (First Pass) + 10 (Second Pass) | ✅ |
-| **Lexicon Entries** | 85+ (v13) | ✅ |
+| **Lexicon Entries** | 85+ (v16) | ✅ |
 | **Translation Versions** | 8 major releases | ✅ |
 
 ---
@@ -295,7 +298,7 @@ Meroitic was **intentionally created** to distinguish Kushite civilization from 
 
 ### Cultural Revelations
 - **Independent Innovation:** Proves African literacy development without external influence
-- **Consciousness Technology:** Advanced understanding of sound frequencies and reality manipulation
+- **Consciousness Technology:** Advanced understanding of sound frequencies
 - **Female Authority:** Documentation of unprecedented women's power in ancient world
 - **Industrial Sophistication:** Complete iron production and metallurgical terminology
 - **Environmental Wisdom:** Climate adaptation and ecological understanding
@@ -457,7 +460,7 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 **Document Classification:** Academic Research - Open Access (with attribution requirements)  
 **Last Updated:** 2026-02-25  
 **Repository Status:** Complete - First Successful Decipherment Achieved  
-**Current Lexicon Version:** v13 (2026-02-24)  
+**Current Lexicon Version:** v16 (2026-02-25)  
 **Current Translation Version:** v8 (2026-02-24)
 
 ---
@@ -466,6 +469,7 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 
 | Date | Version | Major Changes |
 |------|---------|---------------|
+| 2026-02-25 | v1.4 | v16 lexicon update, removed "reality manipulation" wording |
 | 2026-02-25 | v1.3 | README reorganization, enhanced navigation, latest data highlights |
 | 2026-02-24 | v1.2 | Lexicon v13 release, full corpus sweep v8 |
 | 2026-02-18 | v1.1 | Lexicon v5 with enhanced metadata |
