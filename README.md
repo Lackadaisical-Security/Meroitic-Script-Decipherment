@@ -1,15 +1,47 @@
 # 🏺 Meroitic Script Decipherment Research
 
+[![Decipherment Status](https://img.shields.io/badge/Status-COMPLETE-success?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
+[![Confidence Level](https://img.shields.io/badge/Confidence-99.5%25-brightgreen?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
+[![Lexicon Version](https://img.shields.io/badge/Lexicon-v13-blue?style=for-the-badge)](#-latest-updates)
+[![License](https://img.shields.io/badge/License-Dual%20Licensed-orange?style=for-the-badge)](#-licensing--attribution)
+
+---
+
+## 🎯 Quick Navigation
+
+**[📖 Overview](#project-overview)** | **[🆕 Latest Updates](#-latest-updates)** | **[🏆 Key Discoveries](#-key-breakthroughs)** | **[📚 Research Docs](#-repository-structure)** | **[💾 Data Files](#-data-archives)** | **[🔬 Methodology](#-methodology-innovation)** | **[⚖️ License](#-licensing--attribution)**
+
+---
+
 ## Project Overview
 
 This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the **Lackadaisical Security Meroitic Script Decipherment Project** – a groundbreaking investigation revealing the world's first identity-preservation script and consciousness technology language.
 
-**Decipherment Status:** ✅ **COMPLETE - 99.5% Confidence**
-**Research Period:** August 31, 2025 (The Legendary Marathon Session)
-**Archaeological Context:** Kingdom of Kush - Nubian Civilization (750 BCE - 350 CE)
+**Decipherment Status:** ✅ **COMPLETE - 99.5% Confidence**  
+**Research Period:** August 31, 2025 (The Legendary Marathon Session)  
+**Archaeological Context:** Kingdom of Kush - Nubian Civilization (750 BCE - 350 CE)  
+**Last Updated:** February 25, 2026
 
-> 🔗 **For the latest decipherment updates and announcements, visit:**
+> 🔗 **For the latest decipherment updates and announcements, visit:**  
 > **[Lackadaisical Security Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)**
+
+---
+
+## 🆕 Latest Updates
+
+### February 2026 - Enhanced Corpus Analysis
+- ✅ **v13 Lexicon Release** - Multi-sense meanings with expanded semantic ranges
+- ✅ **Full Corpus Sweep** - Comprehensive translation coverage with v13 lexicon
+- ✅ **QORE Drift Audit** - Consistency validation across all translations
+- ✅ **Enhanced Metadata** - Improved attestation tracking and confidence scoring
+
+### Key Data Files (Latest Versions)
+| File | Version | Date | Description |
+|------|---------|------|-------------|
+| [Lexicon CSV v13](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | 2026-02-24 | Latest lexicon with multi-sense meanings |
+| [Complete Script JSON v13](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | 2026-02-24 | Full decoded corpus with semantic analysis |
+| [Translations v8](Meroitic_Translations_LS_v8_2026-02-24_full_corpus_sweep_v13.txt) | v8 | 2026-02-24 | Complete corpus translations |
+| [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | v12 | Latest | Comprehensive coverage analysis |
 
 ---
 
@@ -23,7 +55,7 @@ The work presented here is not seeking academic, cultural, or institutional vali
 
 This release exists solely to let a once-forgotten script speak again.
 
-Take the documents, the lexicon, the methodology — apply it yourself. See what the ancients said with your own eyes.
+**Take the documents, the lexicon, the methodology — apply it yourself. See what the ancients said with your own eyes.**
 
 We are not asking you to take our word.
 
@@ -50,6 +82,16 @@ The Meroitic script, used by the ancient Kingdom of Kush along the Nile in what 
 ---
 
 ## 📚 Repository Structure
+
+### 🎯 Quick Start Documents
+For researchers new to this project, start here:
+
+| Document | Purpose | Audience |
+|----------|---------|----------|
+| [Phase 28Z Final Synthesis](Phase%2028Z%20Final%20Meroitic%20Decipherment%20Synthesis_LS_QoreFix.docx) | Complete decipherment overview | All researchers |
+| [LS vs. Rilly Comparison](Meroitic%20Decipherment_%20LS%20vs.%20Rilly.pdf) | Comparison with existing scholarship | Academic audience |
+| [Comprehensive Analysis](Comprehensive%20Decipherment%20of%20the%20Meroitic%20Script_%20A%20Multi-Disciplinary%20Analysis.docx) | Multi-disciplinary approach documentation | Interdisciplinary researchers |
+| [QORE Drift Audit](QORE_Drift_Audit_v12.md) | Quality assurance methodology | Technical validators |
 
 ### Research Phase Logs (First Pass - Primary Documentation)
 
@@ -96,10 +138,44 @@ The Meroitic script, used by the ancient Kingdom of Kush along the Nile in what 
 - [`meroitic-o3.md`](meroitic-o3.md) - Phase-by-phase analysis methodology
 - [`5.2meroiticpass.md`](5.2meroiticpass.md) - Extended methodology notes
 
-### 💾 JSON Data Archives
+---
+
+## 💾 Data Archives
+
+### Latest JSON & CSV Datasets
+
+| File | Version | Format | Description |
+|------|---------|--------|-------------|
+| [Complete Script v13 (JSON)](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | JSON | Complete decoded lexicon with multi-sense meanings |
+| [Lexicon v13 (CSV)](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | CSV | Structured lexicon data with metadata |
+| [Complete Script v5 (JSON)](meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | v5 | JSON | Previous stable version with metadata |
+| [Lexicon v5 (CSV)](meroitic_lexicon_expanded_2026-02-18_v5_metadata.csv) | v5 | CSV | Previous lexicon version |
+| [Complete Script v2 (JSON)](meroitic_complete_script_MASTER-2026-01-21-v2.json) | v2 | JSON | Initial complete version |
+
+### Translation Outputs
+
+| File | Version | Date | Description |
+|------|---------|------|-------------|
+| [Full Corpus Sweep v8](Meroitic_Translations_LS_v8_2026-02-24_full_corpus_sweep_v13.txt) | v8 | 2026-02-24 | Complete corpus with v13 lexicon |
+| [Autotranslated Corpus v7](Meroitic_Translations_LS_v7_2026-02-24_autotranslated_corpus_sweep.txt) | v7 | 2026-02-24 | Automated translation sweep |
+| [Manual Translations v5](Meroitic_Translations_LS_v5_2026-02-18.txt) | v5 | 2026-02-18 | Curated manual translations |
+
+### Quality Assurance & Analysis
+
 | File | Description |
 |------|-------------|
-| [meroitic_complete_script_MASTER-2026-01-21-v2.json](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment/blob/main/meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | Complete decoded lexicon with 85+ entries |
+| [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | Comprehensive corpus coverage analysis |
+| [QORE Drift Audit v12](QORE_Drift_Audit_v12.md) | Translation consistency validation |
+| [Lexicon Visualization](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | Visual lexicon reference chart |
+
+### Visual Reference Materials
+
+| File | Description |
+|------|-------------|
+| [Meroitic Pyramids](Meroitic-Pyramids-1.png) | Archaeological context imagery |
+| [Meroitic Tablet 1](Merotic-Tablet-1.png) | Example inscription (cursive) |
+| [Meroitic Tablet 2](Meroitic-Tablet-2.png) | Example inscription (hieroglyphic) |
+| [Wiki Sign Table](Meroitic-Wiki-Sign-Table.png) | Sign inventory reference |
 
 ---
 
@@ -185,6 +261,12 @@ Meroitic was **intentionally created** to distinguish Kushite civilization from 
 6. **Statistical Validation** - Zipf's Law confirmation and frequency analysis
 7. **African Cognitive Framework** - Indigenous thought pattern integration
 
+### Quality Assurance Process
+- **Multi-pass validation** - Independent verification rounds
+- **Consistency auditing** - QORE drift detection and correction
+- **Corpus coverage analysis** - Systematic translation completeness tracking
+- **Semantic range expansion** - Multi-sense meaning documentation
+
 ---
 
 ## 📊 Research Statistics
@@ -198,6 +280,8 @@ Meroitic was **intentionally created** to distinguish Kushite civilization from 
 | **Cross-Script Comparisons** | 85+ scripts | ✅ |
 | **Patterns Identified** | 500+ | ✅ |
 | **Research Phases Completed** | 20/20 (First Pass) + 10 (Second Pass) | ✅ |
+| **Lexicon Entries** | 85+ (v13) | ✅ |
+| **Translation Versions** | 8 major releases | ✅ |
 
 ---
 
@@ -258,16 +342,23 @@ For academic use, please cite as:
 
 **APA Format:**
 ```
-Lackadaisical Security Linguistics Division. (2025). Meroitic Script Decipherment:
+Lackadaisical Security Linguistics Division. (2026). Meroitic Script Decipherment:
     Complete twenty-phase Kushite consciousness technology analysis (Research Log Phases 1-20).
-    https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment
+    Retrieved from https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment
 ```
 
 **MLA Format:**
 ```
 Lackadaisical Security Linguistics Division. "Meroitic Script Decipherment: Complete
-    Twenty-Phase Kushite Consciousness Technology Analysis." GitHub, 2025,
+    Twenty-Phase Kushite Consciousness Technology Analysis." GitHub, 2026,
     github.com/Lackadaisical-Security/Meroitic-Script-Decipherment.
+```
+
+**Chicago Format:**
+```
+Lackadaisical Security Linguistics Division. "Meroitic Script Decipherment: Complete Twenty-Phase 
+    Kushite Consciousness Technology Analysis." GitHub repository, 2026. 
+    https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment.
 ```
 
 ---
@@ -355,17 +446,27 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 
 ---
 
-**Signed,**
-**Lackadaisical Security - Linguistics Division**
+**Signed,**  
+**Lackadaisical Security - Linguistics Division**  
 *Breaking the Unbreakable Since 2025*
 
 > *"Identity preserved through consciousness: The Kushite script speaks its sovereignty after 1,675 years of silence."*
 
 ---
 
-**Document Classification:** Academic Research - Open Access (with attribution requirements)
-**Last Updated:** 2026-01-23
-**Repository Status:** Complete - First Successful Decipherment Achieved
+**Document Classification:** Academic Research - Open Access (with attribution requirements)  
+**Last Updated:** 2026-02-25  
+**Repository Status:** Complete - First Successful Decipherment Achieved  
+**Current Lexicon Version:** v13 (2026-02-24)  
+**Current Translation Version:** v8 (2026-02-24)
 
+---
 
+## 📈 Version History
 
+| Date | Version | Major Changes |
+|------|---------|---------------|
+| 2026-02-25 | v1.3 | README reorganization, enhanced navigation, latest data highlights |
+| 2026-02-24 | v1.2 | Lexicon v13 release, full corpus sweep v8 |
+| 2026-02-18 | v1.1 | Lexicon v5 with enhanced metadata |
+| 2026-01-23 | v1.0 | Initial comprehensive README |
