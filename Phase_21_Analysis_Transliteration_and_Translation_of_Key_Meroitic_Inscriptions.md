@@ -11,7 +11,7 @@ Context: Discovered in 1914 at Hamadab (near Meroë), this 42-line sandstone ste
 Meroitic: 𐦢𐦥𐦫𐦤 𐦡𐦢𐦩 ⸫ [Amnirense] ⸫ [li] ⸫ [kandake]
 Transliteration: qore kdi … Amnirense … li … kndke
 English: Ameniras, King of Kush, … and Kandake (queen-mother) …
-	Notes: Amanirenas’s full royal titulary is given. “qore kdi” (literally ruler of Kush) is the standard “King of Kush” formula, here applied to a queen, emphasizing her sovereignty. The term “kandake” (Candace, queen-mother) is explicitly used for her independent queenship. The particle “li” appears as a conjunction linking titles (“qore li kandake”), which we interpret as “and.” Amanirenas’s personal name (transliterated Amnirense/Ameniras) is visible in the text, though its glyphs are omitted above for brevity. Akinidad follows, likely with similar titles.
+	Notes: Amanirenas’s full royal titulary is given. “qore kdi” (literally ruler of Kush) is the standard “Price(ruler) of Kush” formula, here applied to a queen, emphasizing her sovereignty. The term “kandake” (Candace, queen-mother) is explicitly used for her independent queenship. The particle “li” appears as a conjunction linking titles (“qore li kandake”), which we interpret as “and.” Amanirenas’s personal name (transliterated Amnirense/Ameniras) is visible in the text, though its glyphs are omitted above for brevity. Akinidad follows, likely with similar titles.
 	
 Meroitic: 𐦢𐦥𐦫𐦤 𐦡𐦢𐦩 ⸫ Akinidad ⸫ se Amanirenas
 Transliteration: qore kdi … Akinidad … se Amnirense
@@ -39,7 +39,7 @@ Context: King Tanyidamani’s stele from Jebel Barkal is celebrated as the earli
 Meroitic: 𐦢𐦥𐦫𐦤 𐦡𐦢𐦩 ⸫ Tanyidamani ⸫ se Adikhalamani ⸫ se Nahirqo
 Transliteration: qore kdi … Tanyidamani … se Adikhalamani … se Nahirqo
 English: Tanyidamani, King of Kush, son of Adikhalamani, son of Nahirqo,…
-	Notes: The inscription likely begins with Tanyidamani’s titles and lineage. “qore kdi” (King of Kush) is again used as the royal title. The king’s name Tanyidamani follows in the text. Then we see the double “se” construction: “son of Adikhalamani, son of Nahirqo.” This matches historical records that Tanyidamani was the son of King Adikhalamani and Queen Nahirqo. The use of maternal lineage (naming his mother Nahirqo) is particularly significant – it reflects the Kushite practice of recording the queen-mother’s name for legitimacy. Our decipherment framework predicted such genealogical formulas (Phase 3 identified kinship terms like se) and they appear abundantly in royal and elite texts. Here, it affirms succession: Tanyidamani claims authority as son of the previous king and queen.
+	Notes: The inscription likely begins with Tanyidamani’s titles and lineage. “qore kdi” (Prince of Kush) is again used as the royal title. The king’s name Tanyidamani follows in the text. Then we see the double “se” construction: “son of Adikhalamani, son of Nahirqo.” This matches historical records that Tanyidamani was the son of King Adikhalamani and Queen Nahirqo. The use of maternal lineage (naming his mother Nahirqo) is particularly significant – it reflects the Kushite practice of recording the queen-mother’s name for legitimacy. Our decipherment framework predicted such genealogical formulas (Phase 3 identified kinship terms like se) and they appear abundantly in royal and elite texts. Here, it affirms succession: Tanyidamani claims authority as son of the previous king and queen.
 	
 Meroitic: … ⸫ 𐦠𐦦𐦥 ⸫ 𐦠𐦢𐦡 ⸫ Apedemak …
 Transliteration: … di ato … amn … Apedemak …
