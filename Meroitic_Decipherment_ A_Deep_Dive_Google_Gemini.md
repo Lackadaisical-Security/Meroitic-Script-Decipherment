@@ -26,7 +26,7 @@ The database structure dictates that polysemy is only recognized when there is i
 
 The most controversial, yet historically illuminating, aspect of the LS decipherment is its aggressive correction of Kushite royal terminology. For decades, the academic consensus has confidently translated the Meroitic word qore as "king" or "sovereign monarch," and the word mlo as the adjective "good" or "beautiful". Claude Rilly’s justification for this rests almost entirely on linguistic comparative reconstruction: qore is linked phonetically to the Old Nubian ⲟⲩⲣⲟⲩ (ur or uru) meaning "king," while mlo is linked to the Proto-NES root *mel- meaning "good".
 
-The LS model explicitly rejects this consensus, enforcing what it terms the "Qore never equals King Hard Rule". Through corpus-wide slot-signature mapping, the LS team argues that reading qore as a sovereign monarch creates irreconcilable structural contradictions, particularly in co-regency, diplomatic, and succession documents.
+The LS model explicitly rejects this consensus, enforcing what it terms the "Qore ≠ King Hard Rule". Through corpus-wide slot-signature mapping, the LS team argues that reading qore as a sovereign monarch creates irreconcilable structural contradictions, particularly in co-regency, diplomatic, and succession documents.
 
 ## The mlo / qore Dichotomy
 
@@ -63,7 +63,7 @@ Meroitic Token
 	
 The correction of qore from "king" to "prince/heir" profoundly alters the historical interpretation of Kushite political structures. Ancient Kush is renowned in classical antiquity for its powerful female rulers, the Candaces (kndke). The LS model notes that kndke is an independent feminine authority term, carrying a confidence score of 0.96, and is not a feminized derivation of a masculine title.
 
-When analyzing monumental stelae that feature both a male and female ruler, traditional translations often portrayed them as co-monarchs of equal rank. By applying the "Qore never equals King" rule, the LS translations reveal a distinctly matrilineal power dynamic. For example, in texts referencing Queen Amanirenas and Akinidad, the consensus model implies a King and Queen ruling jointly. The LS model translates this accurately as the ruling sovereign Queen Mother (kndke) and her subordinate co-commander/heir son (qore). This structural correction aligns perfectly with archaeological and historical understandings of Kushite matrilineal succession, validating the LS model's internal coherence and proving that the linguistic data directly supports the anthropological record.
+When analyzing monumental stelae that feature both a male and female ruler, traditional translations often portrayed them as co-monarchs of equal rank. By applying the "Qore ≠ King" rule, the LS translations reveal a distinctly matrilineal power dynamic. For example, in texts referencing Queen Amanirenas and Akinidad, the consensus model implies a King and Queen ruling jointly. The LS model translates this accurately as the ruling sovereign Queen Mother (kndke) and her subordinate co-commander/heir son (qore). This structural correction aligns perfectly with archaeological and historical understandings of Kushite matrilineal succession, validating the LS model's internal coherence and proving that the linguistic data directly supports the anthropological record.
 
 ## Redefining the Grammatical Glue: Morphology and Syntax
 
