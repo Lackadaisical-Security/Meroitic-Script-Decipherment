@@ -33,7 +33,7 @@ The LS model explicitly rejects this consensus, enforcing what it terms the "Qor
 In the LS lexicon, mlo is classified under the Royal-Divine-Authority semantic field, translated as "King," "divine authority," or "consciousness ruler," holding a locked confidence score of 0.90 The model suggests that mlo functions as the supreme sovereign title, representing the divine aspect of kingship beyond mere temporal power. The LS methodology theorizes that mlo may derive from an ancient Afroasiatic or Semitic M-L-K root (meaning "king" or "rule") that was adapted into the Kushite lexicon, rather than being a native Nilo-Saharan adjective.
 
 Conversely, qore is structurally downgraded to a non-sovereign title: "crown prince," "heir apparent," or "regional lord," with a confidence score of 0.88 The LS database includes a strict anti-drift protocol embedded directly into its metadata: "Never gloss as 'king/monarch/sovereign ruler'. If sovereign authority is encoded, the corpus uses mlo. Constraint: qore never equals mlo (king)". Furthermore, a third title, pqr (or paqar), is identified as a highly specific, formal designation for the crown prince or designated successor, holding a provisional confidence of 0.56 The title wl is identified as a junior prince or regional governor.
-
+```
 Meroitic Token
 	Academic Consensus (Rilly et al.)
 	LS Decipherment Model
@@ -59,6 +59,7 @@ Meroitic Token
 	Noun: Regional Governor, Junior Prince
 	Titles-Governance
 	Implications for Matrilineal Power Dynamics
+```
 	
 The correction of qore from "king" to "prince/heir" profoundly alters the historical interpretation of Kushite political structures. Ancient Kush is renowned in classical antiquity for its powerful female rulers, the Candaces (kndke). The LS model notes that kndke is an independent feminine authority term, carrying a confidence score of 0.96, and is not a feminized derivation of a masculine title.
 
@@ -92,7 +93,7 @@ To thoroughly test the efficacy of the LS methodology against the academic conse
 The Hamadab Stela is a colossal 42-line cursive text dating to circa 24 BCE. It is widely accepted by historians as a record of the Kushite war against Roman forces in Egypt, a conflict that culminated in the sacking of Aswan and the looting of the famous bronze head of Augustus.
 The academic consensus, while recognizing the names of the rulers, has struggled to provide a fluid translation of the narrative. The LS translation achieves a breakthrough by identifying the term tameya as an ethnonym for the Romans (or Roman-Egyptians), carrying a confidence score of 0.90 The text operates as a victory chronicle for Queen Amanirenas and Prince Akinidad.
 
-
+```
 Segment
 	Transliteration (LS Model)
 	LS English Translation
@@ -111,19 +112,21 @@ Segment
 	0.92
 	HAM-04
 	lo qore nobo-l-o
-	"(He) is the king of the Nuba (in service)"
+	"(He) is the Prince(ruler) of the Nuba (in service)"
 	0.85
-	Analytical Insight: The identification of tameya as enemies, combined with the explicit toponym areme (Rome) locked at a confidence of 0.80, demonstrates that Meroitic possessed a highly specific, contemporary geopolitical lexicon. The syntax of the Hamadab Stela indicates an offensive posture; it is not merely a defensive record but a declaration of sovereign reach, portraying the Kushite state as actively managing and repelling Mediterranean incursions at its spiritual capital, Napata. The explicit use of the demonstrative particle qo ("this/these") serves as a deictic caption marker, physically pointing the reader to the bound captives depicted in the stela's frieze.
+```
+
+Analytical Insight: The identification of tameya as enemies, combined with the explicit toponym areme (Rome) locked at a confidence of 0.80, demonstrates that Meroitic possessed a highly specific, contemporary geopolitical lexicon. The syntax of the Hamadab Stela indicates an offensive posture; it is not merely a defensive record but a declaration of sovereign reach, portraying the Kushite state as actively managing and repelling Mediterranean incursions at its spiritual capital, Napata. The explicit use of the demonstrative particle qo ("this/these") serves as a deictic caption marker, physically pointing the reader to the bound captives depicted in the stela's frieze.
 
 ### The Faras Offering Table and Diplomatic Bridges
 
 The Faras Offering Table (EA 1576/1585) provides a crucial intersection between funerary epigraphy and geopolitical reality. In this funerary context, a high-ranking official is commemorated with the title string apote arome-li-se.
-
+```
 * apote: Envoy or messenger (an Egyptian loanword), locked at 0.72 confidence.
 * arome: Rome.
 * -li: Allative case marker ("to" or "toward").
 * -se: Genitive suffix.
-
+```
 The resulting translation, "Envoy to Rome," confirms that Meroë maintained a dedicated, formal diplomatic corps capable of negotiating with the Roman Empire. This inscription acts as a "diplomatic bridge," proving that the toponym areme/arome referenced in the military context of the Hamadab Stela represents a concrete geopolitical entity, thereby validating the multi-genre consistency of the LS lexicon.
 
 Distributive Syntax and the Reality of War: REM 1044
@@ -138,10 +141,11 @@ One of the most vital proofs of a decipherment is its utility on secular, non-fo
 The text records a caravan (ḫꜣrw, Conf: 0.78) dispatched from Meroë, logged by a scribe (sš, Conf: 0.82) named Amanap, acting on behalf of a merchant or trader (swty, Conf: 0.82) named Kharitodo.
 
 The text quantifies commodities using the Egyptian dbn (deben) weight unit, locked at 0.85 confidence. It lists:
+```
 * nbw dbn 10: 10 deben of gold ($\approx 900$ grams), locked at 0.94 confidence.
 * ꜣbw dbn 3: 3 deben of ivory ($\approx 270$ grams), locked at 0.95 confidence.
 * hbny (ebony, Conf: 0.90) and snṯr (incense, Conf: 0.90) as bulk loads.
-
+```
 Analytical Insight: The document outlines an expansive trade network utilizing the "Road to Lower Egypt" (wꜣt-tꜣ-mḥw, Conf: 0.88) and the "Upper Nile Route" (wꜣt-ḥꜣpy-rs, Conf: 0.88), detailing commercial waypoints at Aswan (swn, Conf: 0.88) and Alexandria (rꜣ-qd, Conf: 0.88). The presence of this vocabulary confirms that Meroitic was a fully functional administrative language capable of managing complex, trans-continental supply chains linking the Mediterranean ports (wꜣḏ-wr, Conf: 0.88) with the Indian Ocean (mkꜣ-ꜣꜣ, Conf: 0.88), Axum (ꜣksm, Conf: 0.88), and Arabia (ꜣrb, Conf: 0.88).
 
 Furthermore, the temporal markers utilized the Egyptian calendar seasons šmw (Harvest/drought season, Conf: 0.80) and ꜣḫt (Inundation season, Conf: 0.80), indicating a deep integration of Egyptian agricultural timekeeping into Kushite trans-Saharan commerce. This ostracon single-handedly disproves any notion that Meroë was an isolated African kingdom; it was a deeply connected mercantile superpower.
@@ -162,37 +166,43 @@ While royal and funerary texts dominate the physical landscape, the LS decipherm
 ### Africa's First Industrial Lexicon
 
 Archaeological evidence has long established Meroë as a primary center for ancient iron smelting, often dubbed the Birmingham of ancient Africa. The LS decipherment provides the corresponding textual proof, identifying a complete technological vocabulary.
+```
 * biꜣ: Iron, meteoric iron (Conf: 0.90).
 * m-r-furnace: Smelting furnace or high-temperature kiln (Conf: 0.80).
 * t-k-hammer: Forge hammer or smithing tool (Conf: 0.75).
 * biꜣ-implement: Finished iron tool or product (Conf: 0.78).
-
+```
 Analytical Insight: The existence of specific terminology distinguishing between raw iron, the mechanical tools of production, and the finished implements indicates a highly compartmentalized industrial economy. The Meroitic state codified the manufacturing process directly into its administrative language.
 
 ### Agricultural Engineering and the Nilometer
 
 The survival of the Kushite state depended entirely on managing the erratic flow of the Nile. The LS lexicon reveals an advanced agricultural engineering vocabulary. The texts distinguish between specific water-control mechanisms:
+```
 * šꜣdwf: Manual water-lifting device (counterpoise lever), locked at 0.86 confidence.
 * sꜣqiyꜣ: Animal-driven water wheel, locked at 0.86 confidence.
 * mr: Irrigation canal (Conf: 0.86).
 * ḥsp: Flood basin for cultivation (Conf: 0.86).
 * dnit: Dyke or water control embankment (Conf: 0.86).
+```
 
 The Egyptian loanword for the Nile inundation, ḥʿpy (Conf: 0.93), was adapted into a precise measuring system using the cubit (mḥ). Administrative texts feature a standardized Nilometric scale:
+```
 * mḥ-7: 7 cubits ($\approx 3.7$ meters) - Standard baseline.
 * mḥ-12: 12 cubits ($\approx 6.3$ meters) - High flood.
 * mḥ-18: 18 cubits ($\approx 9.5$ meters) - Disaster/destructive flood.
- 
+```
+
 ### Environmental Documentation and Climate Collapse
 
 More critically, late Meroitic texts reveal a catastrophic surge in crisis vocabulary. The LS decipherment identifies specific terms used to document the environmental collapse that precipitated the fall of the empire.
+```
 * ḥqr: Hunger, systemic famine.
 * mw-ꜥz: Water-rebellion or flood disaster (Conf: 0.70).
 * dšrt-ḥz: Desert-rage or sandstorm (Conf: 0.70).
 * ꜣrby-swarm: Locust plague (Conf: 0.70).
 * tꜣ-ḫnm: Earth-shake or earthquake (Conf: 0.70).
 * mwt-spd: Death-spread or epidemic (Conf: 0.70).
-
+```
 The sudden density of these terms in the later epigraphic record corroborates modern paleoclimatological evidence of a severe climatic shift in the 3rd and 4th centuries CE. The Meroitic scribes were, in effect, recording the environmental death of their own civilization, transitioning their script from a tool of imperial boasting to an apocalyptic ledger.
 Deconstructing the Cybersecurity and Quantum Metaphors. 
 
