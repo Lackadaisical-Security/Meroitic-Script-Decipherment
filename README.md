@@ -2,7 +2,7 @@
 
 [![Decipherment Status](https://img.shields.io/badge/Status-COMPLETE-success?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
 [![Confidence Level](https://img.shields.io/badge/Confidence-99.5%25-brightgreen?style=for-the-badge)](https://lackadaisical-security.com/decipherment-drops.html)
-[![Lexicon Version](https://img.shields.io/badge/Lexicon-v16-blue?style=for-the-badge)](#-latest-updates)
+[![Lexicon Version](https://img.shields.io/badge/Lexicon-v17-blue?style=for-the-badge)](#-latest-updates)
 [![License](https://img.shields.io/badge/License-Dual%20Licensed-orange?style=for-the-badge)](#-licensing--attribution)
 
 ---
@@ -20,7 +20,7 @@ This repository preserves the complete research logs, linguistic fieldwork, and 
 **Decipherment Status:** ✅ **COMPLETE - 99.5% Confidence**  
 **Research Period:** August 31, 2025 (The Legendary Marathon Session)  
 **Archaeological Context:** Kingdom of Kush - Nubian Civilization (750 BCE - 350 CE)  
-**Last Updated:** February 25, 2026
+**Last Updated:** February 26, 2026
 
 > 🔗 **For the latest decipherment updates and announcements, visit:**  
 > **[Lackadaisical Security Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)**
@@ -28,6 +28,12 @@ This repository preserves the complete research logs, linguistic fieldwork, and 
 ---
 
 ## 🆕 Latest Updates
+
+### February 26, 2026 - v17 Lexicon Release
+- ✅ **v17 Lexicon Release** - Further extended lexicon with refined multi-sense analysis
+- ✅ **Updated JSON Master File** - Complete decoded corpus updated to v17
+- ✅ **Updated CSV Lexicon** - Expanded metadata and attestation improvements
+- ✅ **NEW_REM_TOKENS** - New remaining tokens identified and catalogued (2026-02-25)
 
 ### February 25, 2026 - v16 Lexicon Release
 - ✅ **v16 Lexicon Release** - Extended lexicon with enhanced semantic analysis
@@ -38,8 +44,10 @@ This repository preserves the complete research logs, linguistic fieldwork, and 
 ### Key Data Files (Latest Versions)
 | File | Version | Date | Description |
 |------|---------|------|-------------|
-| [Lexicon CSV v16](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | **v16** | 2026-02-25 | **Latest lexicon with extended semantic ranges** |
-| [Complete Script JSON v16](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | **v16** | 2026-02-25 | **Full decoded corpus with multi-sense analysis** |
+| [Lexicon CSV v17](meroitic_lexicon_expanded_2026-02-26_v17_metadata.csv) | **v17** | 2026-02-26 | **Latest lexicon with refined multi-sense analysis** |
+| [Complete Script JSON v17](meroitic_complete_script_MASTER-2026-02-26-v17_LS_multisense.json) | **v17** | 2026-02-26 | **Latest: Full decoded corpus updated to v17** |
+| [Lexicon CSV v16](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | v16 | 2026-02-25 | Previous lexicon with extended semantic ranges |
+| [Complete Script JSON v16](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | v16 | 2026-02-25 | Previous version with multi-sense analysis |
 | [Lexicon Visualization v16](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | v16 | Latest | Visual reference chart (sorted by status) |
 | [Translations v8](Meroitic_Translations_LS_v8_2026-02-24_full_corpus_sweep_v13.txt) | v8 | 2026-02-24 | Complete corpus translations |
 | [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | v12 | Latest | Comprehensive coverage analysis |
@@ -134,6 +142,7 @@ For researchers new to this project, start here:
 | [Phases 14-15 - Second Pass](PHASE_14-15_SECONDPASS_Trade_Network_and_Climate_Environmental_Pattern_Analysis.md) | ✅ **COMPLETE** | Trade Network & Climate Environmental Analysis |
 | [Phases 16-18 - Second Pass](PHASE_16-18_SECONDPASS_Nilo-Saharan_Linguistic_DNA_Sacred_Mathematics_and_Kushite_Sound_Frequencies.md) | ✅ **COMPLETE** | Linguistic DNA, Sacred Mathematics & Sound Frequencies |
 | [Phases 19-20 - Second Pass](PHASE_19_and_20_SECONDPASS_African_Cognitive_Patterns_and_Complete_Kushite_Synthesis.md) | ✅ **COMPLETE** | African Cognitive Patterns & Complete Synthesis |
+| [Phase 22 - Second Pass](PHASE_22_SECONDPASS.md) | ✅ **COMPLETE** | Phase 22 Second Pass Analysis |
 
 ### Advanced Integration Phases (21-30 + ZZ - Continuation of Second Pass)
 
@@ -154,10 +163,26 @@ For researchers new to this project, start here:
 | [Phase 30 Lexicon Update](Phase%2030%20Lexicon%20Update%20(v14-draft).docx) | ✅ **COMPLETE** | Lexicon Update v14 (Draft) |
 | [Phase ZZ Integrity Check](Phase%20ZZ%20(Integrity%20Check)%20%E2%80%93%20Meroitic%20Script%20Decipherment.docx) | ✅ **COMPLETE** | Integrity Check & Quality Assurance |
 | [Phase ZZ Corpus Integration](PhaseZZ%20Meroitic%20Corpus%20Integration%20\u0026%20Validation.docx) | ✅ **COMPLETE** | Corpus Integration & Validation |
+| [Phase 28Z Errata (QORE/King)](Phase28Z_Errata_Qore_Never_King.md) | ✅ **COMPLETE** | Errata: QORE/King Corrections for Phase 28Z |
+| [Phase 31 - Cross-Inscription Synthesis](PHASE31-SECONDPASS-Cross-Inscription-Synthesisa-and-Lexicon-Validation.md) | ✅ **COMPLETE** | Cross-Inscription Synthesis & Lexicon Validation |
+| [Phase 32 - Corpus Completion](PHASE32-SECONDPASS-Closing-in-on-Complete-Meroitic-Corpus-Translation-and-Lexicon-Extension.md) | ✅ **COMPLETE** | Closing in on Complete Corpus Translation & Lexicon Extension |
 
 ### Methodology Documentation
 - [`meroitic-o3.md`](meroitic-o3.md) - Phase-by-phase analysis methodology
 - [`5.2meroiticpass.md`](5.2meroiticpass.md) - Extended methodology notes
+- [`SECONDPASS-Master-Decipherment-Report-of-the-Meroitic-Script-Kingdom-of-Kush-LS.md`](SECONDPASS-Master-Decipherment-Report-of-the-Meroitic-Script-Kingdom-of-Kush-LS.md) - Master second-pass decipherment report (Kingdom of Kush LS)
+- [`Meroitic_Decipherment_ A_Deep_Dive_Google_Gemini.md`](Meroitic_Decipherment_%20A_Deep_Dive_Google_Gemini.md) - Deep dive analysis via Google Gemini
+- [`Meroitic Decipherment Methodology_ Phase-by-Phase Analysis.docx`](Meroitic%20Decipherment%20Methodology_%20Phase-by-Phase%20Analysis.docx) - Phase-by-phase methodology (DOCX)
+
+### Supplementary Research Documents
+
+| Document | Format | Description |
+|----------|--------|-------------|
+| [Refined Decipherment of the Meroitic Script](Refined%20Decipherment%20of%20the%20Meroitic%20Script.docx) | DOCX | Refined analysis and decipherment summary |
+| [Cross-Cultural Patterns in Meroitic Symbolism](Cross-Cultural%20Patterns%20in%20Meroitic%20Symbolism.docx) | DOCX | Cross-cultural symbolism pattern analysis |
+| [Computational Epigraphy and the LS-First Model](Computational%20Epigraphy%20and%20the%20LS-First%20Model%20of%20Meroitic%20Translation.txt) | TXT | Computational epigraphy methodology paper |
+| [Meroitic Inscriptions Translation and Methodology](Meroitic%20Inscriptions%20Translation%20and%20Methodology.txt) | TXT | Inscriptions translation and methodology (text version) |
+| [Meroitic Inscriptions Translation and Methodology](Meroitic%20Inscriptions%20Translation%20and%20Methodology.docx) | DOCX | Inscriptions translation and methodology (DOCX version) |
 
 ---
 
@@ -167,10 +192,12 @@ For researchers new to this project, start here:
 
 | File | Version | Format | Description |
 |------|---------|--------|-------------|
-| [Complete Script v16 (JSON)](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | **v16** | JSON | **Latest: Complete decoded lexicon with multi-sense meanings** |
-| [Lexicon v16 (CSV)](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | **v16** | CSV | **Latest: Structured lexicon data with extended metadata** |
-| [Complete Script v13 (JSON)](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | JSON | Previous version with multi-sense meanings |
-| [Lexicon v13 (CSV)](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | CSV | Previous structured lexicon |
+| [Complete Script v17 (JSON)](meroitic_complete_script_MASTER-2026-02-26-v17_LS_multisense.json) | **v17** | JSON | **Latest: Complete decoded lexicon updated to v17** |
+| [Lexicon v17 (CSV)](meroitic_lexicon_expanded_2026-02-26_v17_metadata.csv) | **v17** | CSV | **Latest: Structured lexicon data with refined metadata** |
+| [Complete Script v16 (JSON)](meroitic_complete_script_MASTER-2026-02-25-v16_LS_multisense.json) | v16 | JSON | Previous version with multi-sense meanings |
+| [Lexicon v16 (CSV)](meroitic_lexicon_expanded_2026-02-25_v16_metadata.csv) | v16 | CSV | Previous structured lexicon with extended metadata |
+| [Complete Script v13 (JSON)](meroitic_complete_script_MASTER-2026-02-24-v13_LS_multisense.json) | v13 | JSON | Earlier version with multi-sense meanings |
+| [Lexicon v13 (CSV)](meroitic_lexicon_expanded_2026-02-24_v13_metadata.csv) | v13 | CSV | Earlier structured lexicon |
 | [Complete Script v5 (JSON)](meroitic_complete_script_MASTER-2026-02-18-v5_metadata.json) | v5 | JSON | Earlier stable version with metadata |
 | [Lexicon v5 (CSV)](meroitic_lexicon_expanded_2026-02-18_v5_metadata.csv) | v5 | CSV | Earlier lexicon version |
 | [Complete Script v2 (JSON)](meroitic_complete_script_MASTER-2026-01-21-v2.json) | v2 | JSON | Initial complete version |
@@ -182,6 +209,7 @@ For researchers new to this project, start here:
 | [Full Corpus Sweep v8](Meroitic_Translations_LS_v8_2026-02-24_full_corpus_sweep_v13.txt) | v8 | 2026-02-24 | Complete corpus with v13 lexicon |
 | [Autotranslated Corpus v7](Meroitic_Translations_LS_v7_2026-02-24_autotranslated_corpus_sweep.txt) | v7 | 2026-02-24 | Automated translation sweep |
 | [Manual Translations v5](Meroitic_Translations_LS_v5_2026-02-18.txt) | v5 | 2026-02-18 | Curated manual translations |
+| [New Remaining Tokens](NEW_REM_TOKENS_2026-02-25.txt) | — | 2026-02-25 | Newly identified remaining/unresolved tokens |
 
 ### Quality Assurance & Analysis
 
@@ -189,7 +217,8 @@ For researchers new to this project, start here:
 |------|-------------|
 | [Coverage Report v12](LS_v12_Corpus_Sweep_Coverage_Report.md) | Comprehensive corpus coverage analysis |
 | [QORE Drift Audit v12](QORE_Drift_Audit_v12.md) | Translation consistency validation |
-| [Lexicon Visualization v16](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | **Visual lexicon reference chart (sorted by status)** |
+| [Integrity Table v15 (PhaseZZ–Phase30)](LS_Integrity_Table_v15_PhaseZZ_Phase30.png) | Integrity check table spanning Phase ZZ through Phase 30 |
+| [Lexicon Visualization v16 (sorted by status)](LS_Lexicon_v16_Extended_LONG_SORTED_BY_STATUS_UNHINGED.png) | **Visual lexicon reference chart (sorted by status)** |
 
 ### Visual Reference Materials
 
@@ -199,6 +228,13 @@ For researchers new to this project, start here:
 | [Meroitic Tablet 1](Merotic-Tablet-1.png) | Example inscription (cursive) |
 | [Meroitic Tablet 2](Meroitic-Tablet-2.png) | Example inscription (hieroglyphic) |
 | [Wiki Sign Table](Meroitic-Wiki-Sign-Table.png) | Sign inventory reference |
+| [Lexicon Full Table v16 – Compact (long)](LS_Lexicon_FullTable_v16_Compact_LONG.png) | Full lexicon table v16, compact layout |
+| [Lexicon Full Table v16 – Extended (long)](LS_Lexicon_FullTable_v16_Extended_LONG.png) | Full lexicon table v16, extended layout |
+| [Lexicon Full Table v16 – Extended p1](LS_Lexicon_FullTable_v16_Extended_p1.png) | Extended lexicon table v16, page 1 |
+| [Lexicon Full Table v16 – Extended p2](LS_Lexicon_FullTable_v16_Extended_p2.png) | Extended lexicon table v16, page 2 |
+| [Lexicon Full Table v16 – Extended p3](LS_Lexicon_FullTable_v16_Extended_p3.png) | Extended lexicon table v16, page 3 |
+| [Lexicon Full Table v16 – Extended p4](LS_Lexicon_FullTable_v16_Extended_p4.png) | Extended lexicon table v16, page 4 |
+| [Lexicon Full Table v16 – Extended p5](LS_Lexicon_FullTable_v16_Extended_p5.png) | Extended lexicon table v16, page 5 |
 
 ---
 
@@ -302,9 +338,9 @@ Meroitic was **intentionally created** to distinguish Kushite civilization from 
 | **Archaeological Sites Analyzed** | 8+ | ✅ |
 | **Cross-Script Comparisons** | 85+ scripts | ✅ |
 | **Patterns Identified** | 500+ | ✅ |
-| **Research Phases Completed** | 20/20 (First Pass) + 30 (Second Pass + Advanced) | ✅ |
-| **Lexicon Entries** | 85+ (v16) | ✅ |
-| **Translation Versions** | 8 major releases | ✅ |
+| **Research Phases Completed** | 20/20 (First Pass) + 32 (Second Pass + Advanced) | ✅ |
+| **Lexicon Entries** | 85+ (v17) | ✅ |
+| **Translation Versions** | 9 major releases | ✅ |
 
 ---
 
@@ -492,9 +528,9 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 ---
 
 **Document Classification:** Academic Research - Open Access (with attribution requirements)  
-**Last Updated:** 2026-02-25  
+**Last Updated:** 2026-02-26  
 **Repository Status:** Complete - First Successful Decipherment Achieved  
-**Current Lexicon Version:** v16 (2026-02-25)  
+**Current Lexicon Version:** v17 (2026-02-26)  
 **Current Translation Version:** v8 (2026-02-24)
 
 ---
@@ -503,6 +539,7 @@ Part of the legendary 6-hour session where **9 scripts** were decoded:
 
 | Date | Version | Major Changes |
 |------|---------|---------------|
+| 2026-02-26 | v1.6 | v17 lexicon & JSON release; added Phases 31–32, Phase 22 SP, Phase 28Z Errata, supplementary docs, new images |
 | 2026-02-25 | v1.5 | Added Advanced Integration Phases (21-30 + ZZ) |
 | 2026-02-25 | v1.4 | v16 lexicon update, removed "reality manipulation" wording |
 | 2026-02-25 | v1.3 | README reorganization, enhanced navigation, latest data highlights |
