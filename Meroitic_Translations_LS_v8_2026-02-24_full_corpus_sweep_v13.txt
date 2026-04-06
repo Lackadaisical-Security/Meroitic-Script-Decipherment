@@ -309,8 +309,8 @@ TOTAL UNIQUE TOKEN-SEQUENCES TRANSLATED: 65
 
 [AUTO-046]  Class: DISTRIBUTIVE_CLAUSE
   Transliteration: abr-se-l e-ked kdi-se-l e-er-k
-  Literal gloss:   [abr-se-l]→each man [e-ked]→ [kdi-se-l]→each woman / female class [e-er-k]→
-  Translation:     Each man was killed; each woman was seized
+  Literal gloss:   [abr-se-l]→each man [e-ked]→ [kdi-se-l]→each Kush/every unit of Kush [e-er-k]→
+  Translation:     Each man was killed; each kush was seized
   Confidence:      0.64
 
 ==================================================================================================
